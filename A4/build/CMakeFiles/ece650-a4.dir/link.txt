@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -std=c++11 -Wall  -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ece650-a4.dir/ece650-a4.cpp.o  -o ece650-a4 minisat/libminisat.a /usr/lib/libz.dylib 

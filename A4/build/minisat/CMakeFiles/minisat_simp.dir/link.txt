@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/minisat_simp.dir/minisat/simp/Main.cc.o  -o minisat libminisat.a /usr/lib/libz.dylib 

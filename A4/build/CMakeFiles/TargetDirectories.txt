@@ -1,0 +1,17 @@
+/Users/jiangruiyin/desktop/A4/build/CMakeFiles/install/local.dir
+/Users/jiangruiyin/desktop/A4/build/CMakeFiles/install/strip.dir
+/Users/jiangruiyin/desktop/A4/build/CMakeFiles/install.dir
+/Users/jiangruiyin/desktop/A4/build/CMakeFiles/list_install_components.dir
+/Users/jiangruiyin/desktop/A4/build/CMakeFiles/rebuild_cache.dir
+/Users/jiangruiyin/desktop/A4/build/CMakeFiles/edit_cache.dir
+/Users/jiangruiyin/desktop/A4/build/CMakeFiles/ece650-a4.dir
+/Users/jiangruiyin/desktop/A4/build/minisat/CMakeFiles/install/local.dir
+/Users/jiangruiyin/desktop/A4/build/minisat/CMakeFiles/install/strip.dir
+/Users/jiangruiyin/desktop/A4/build/minisat/CMakeFiles/install.dir
+/Users/jiangruiyin/desktop/A4/build/minisat/CMakeFiles/list_install_components.dir
+/Users/jiangruiyin/desktop/A4/build/minisat/CMakeFiles/rebuild_cache.dir
+/Users/jiangruiyin/desktop/A4/build/minisat/CMakeFiles/edit_cache.dir
+/Users/jiangruiyin/desktop/A4/build/minisat/CMakeFiles/minisat_simp.dir
+/Users/jiangruiyin/desktop/A4/build/minisat/CMakeFiles/minisat_core.dir
+/Users/jiangruiyin/desktop/A4/build/minisat/CMakeFiles/minisat-lib-shared.dir
+/Users/jiangruiyin/desktop/A4/build/minisat/CMakeFiles/minisat-lib-static.dir
